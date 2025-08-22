@@ -1,6 +1,6 @@
 # SW-CPU-RaspberryPi-SPI-010
 
-Here is BMI088 Gyro/Accelorometer Sensor and RC522 RFID Modude test with Raspberry Pi 4B.
+Here is BMI088 Gyro/Accelorometer Sensor and RC522 RFID Module test with Raspberry Pi 4B.
 
 ## 1. Connect your Module/Sensor
 
